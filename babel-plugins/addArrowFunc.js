@@ -5,7 +5,7 @@ module.exports = function({
 		visitor: {
 			ArrayExpression(path) {
 				let program = path.findParent(isProgram);
-
+debugger;
 				console.log("--FunctionDeclaration--");
 				console.log(program);
 

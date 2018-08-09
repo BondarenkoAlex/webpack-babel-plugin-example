@@ -1,0 +1,5 @@
+const innerFunc = () => {
+	let r = [];
+};
+
+

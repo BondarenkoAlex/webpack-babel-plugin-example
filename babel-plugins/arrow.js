@@ -5,6 +5,7 @@ module.exports = function({
 		visitor: {
 			ArrowFunctionExpression(path, file) {
 				console.log("--ArrowFunctionExpression--");
+				debugger;
 			}
 		}
 	};
