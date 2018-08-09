@@ -9,19 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BondarenkoAlex/webpack-babel-example.git"
+    "url": "git+https://github.com/BondarenkoAlex/webpack-babel-plugin-example.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BondarenkoAlex/webpack-babel-example/issues"
+    "url": "https://github.com/BondarenkoAlex/webpack-babel-plugin-example/issues"
   },
-  "homepage": "https://github.com/BondarenkoAlex/webpack-babel-example#readme",
+  "homepage": "https://github.com/BondarenkoAlex/webpack-babel-plugin-example#readme",
   "dependencies": {
     "babel-core": "^6.26.3",
     "babel-loader": "7.1.5",
     "babel-plugin-transform-runtime": "6.23.0",
-    "babel-preset-es2015": "6.24.1",
     "webpack": "4.16.4"
   },
   "devDependencies": {
